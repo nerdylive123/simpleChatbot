@@ -1,0 +1,156 @@
+{
+  "request": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Hows it going",
+        "Whats up?"
+      ],
+      "response": [
+        "Hello",
+        "Good Afternoon",
+        "Good Morning",
+        "What can i do for you?"
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "What's the weather like today?",
+        "Is it going to rain today?",
+        "What's the forecast for tomorrow?",
+        "How hot is it outside?",
+        "Do I need an umbrella?"
+      ],
+      "response": [
+        "The weather is sunny and clear today.",
+        "There is a high chance of rain today.",
+        "Tomorrow's forecast calls for cloudy skies and cooler temperatures.",
+        "It's currently 75 degrees outside.",
+        "It's a good idea to bring an umbrella just in case."
+      ]
+    },
+    {
+      "tag": "food",
+      "patterns": [
+        "What's your favorite food?",
+        "What do you like to eat?",
+        "Do you prefer sweet or savory food?",
+        "Have you tried any new restaurants lately?",
+        "What's your favorite cuisine?"
+      ],
+      "response": [
+        "I love pizza and pasta.",
+        "I enjoy trying new foods and cuisines.",
+        "I like both sweet and savory food.",
+        "I recently tried a new sushi restaurant and it was delicious.",
+        "My favorite cuisine is Mexican food."
+      ]
+    },
+    {
+      "tag": "music",
+      "patterns": [
+        "What's your favorite band?",
+        "Do you like listening to music?",
+        "What genre of music do you enjoy?",
+        "Have you been to any concerts recently?",
+        "Do you play any instruments?"
+      ],
+      "response": [
+        "My favorite band is Radiohead.",
+        "I love listening to music and discovering new artists.",
+        "I enjoy many genres of music, but I especially like indie and alternative.",
+        "I went to a concert last week and it was amazing.",
+        "I play the guitar and the piano."
+      ]
+    },
+    {
+      "tag": "movies",
+      "patterns": [
+        "What's your favorite movie?",
+        "Do you enjoy watching movies?",
+        "What genre of movies do you like?",
+        "Have you seen any good movies lately?",
+        "Do you prefer watching movies at home or in the theater?"
+      ],
+      "response": [
+        "My favorite movie is The Godfather.",
+        "I love watching movies and getting lost in a good story.",
+        "I enjoy many genres of movies, but I especially like dramas and thrillers.",
+        "I saw a great movie last night called Parasite.",
+        "I prefer watching movies at home because I can pause and rewind if I need to."
+      ]
+    },
+    {
+      "tag": "travel",
+      "patterns": [
+        "Have you traveled anywhere recently?",
+        "What's your favorite travel destination?",
+        "Do you prefer beach or mountain vacations?",
+        "Have you ever gone on a solo trip?",
+        "What's the best trip you've ever been on?"
+      ],
+      "response": [
+        "I went on a trip to Japan last month and it was incredible.",
+        "My favorite travel destination is Thailand.",
+        "I enjoy both beach and mountain vacations, but I prefer beach vacations.",
+        "I've never gone on a solo trip, but I would like to someday.",
+        "The best trip I've ever been on was a road trip across the United States."
+      ]
+    },
+    {
+      "tag": "technology",
+      "patterns": [
+        "What's the latest tech news?",
+        "Have you heard about the new iPhone?",
+        "What do you think about artificial intelligence?",
+        "What's the difference between machine learning and deep learning?",
+        "Do you know any cool programming languages?"
+      ],
+      "response": [
+        "The latest tech news is that Elon Musk is launching a satellite to Mars.",
+        "Yes, I have heard about the new iPhone. It has some impressive features.",
+        "Artificial intelligence is an exciting field with a lot of potential.",
+        "Machine learning is a subset of artificial intelligence, whereas deep learning is a subset of machine learning.",
+        "I think Python and Rust are both cool programming languages."
+      ]
+    },
+    {
+      "tag": "software",
+      "patterns": [
+        "What's your favorite software?",
+        "Do you prefer open source or proprietary software?",
+        "Have you tried any new software recently?",
+        "What's the difference between software and an application?",
+        "Do you think software development is a good career choice?"
+      ],
+      "response": [
+        "My favorite software is Visual Studio Code.",
+        "I prefer open source software because it's more transparent and collaborative.",
+        "I recently tried a new photo editing software called GIMP and it worked really well.",
+        "Software and application are often used interchangeably, but software refers to a program or set of programs, whereas an application is a program designed to perform a specific function.",
+        "I think software development can be a great career choice, as long as you enjoy problem-solving and have strong coding skills."
+      ]
+    },
+    {
+      "tag": "internet",
+      "patterns": [
+        "What's your favorite website?",
+        "Do you think the internet has changed society for the better or worse?",
+        "What's the difference between the internet and the World Wide Web?",
+        "What's the most popular social media platform?",
+        "Do you think the internet should be regulated?"
+      ],
+      "response": [
+        "My favorite website is Reddit.",
+        "The internet has both positive and negative impacts on society, but overall I think it has had a net positive effect.",
+        "The internet is the global network of interconnected computers and servers, whereas the World Wide Web is a collection of websites and web pages accessed through the internet.",
+        "The most popular social media platform is currently Facebook.",
+        "I think the internet should be regulated to some extent, but it's important to strike a balance between regulation and freedom of speech."
+      ]
+    }
+  ]
+}
